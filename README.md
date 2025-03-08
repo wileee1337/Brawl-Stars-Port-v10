@@ -9,8 +9,8 @@ What has changed?
 3. Changed Animation Colt!
 4. The menu has been changed so that it at least slightly resembles the menu from version 10!
 
-(I would have done much better if I had played it!)
- 
+(If I had played the original v10 I would have done much better!)
+
 Download apk
 https://www.mediafire.com/file/mdnys9ggyi42buf/Brawl+Stars+v10.119.apk/file
 ![Screenshot_2025-03-08-06-51-21-711_com wileeebrawl v10](https://github.com/user-attachments/assets/c5d5ac20-ade8-4252-9751-c4867732dbc0)
